@@ -1,0 +1,3 @@
+company_type,events,known_count_events,layoff_count,avg_layoff_count,median_layoff_count,companies,event_share_pct,headcount_share_pct
+Non-AI company,2115,1375,392263.0,285.3,90.0,1633,85.6,72.5
+AI company,355,217,149030.0,686.8,77.0,276,14.4,27.5

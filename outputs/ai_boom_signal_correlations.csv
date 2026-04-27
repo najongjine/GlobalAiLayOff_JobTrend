@@ -1,0 +1,10 @@
+,us_layoff_events,us_ai_layoff_events,us_ai_event_share_pct,tech_emp_yoy_pct,jolts_job_openings_k,information_sector_emp_k,computer_math_emp_k,avg_sentiment,negative_share_pct
+us_layoff_events,1.0,0.823,-0.064,-0.371,0.103,0.399,0.019,0.168,0.158
+us_ai_layoff_events,0.823,1.0,0.2,-0.368,0.099,0.369,-0.045,0.37,0.152
+us_ai_event_share_pct,-0.064,0.2,1.0,-0.03,-0.16,-0.092,0.003,0.312,-0.03
+tech_emp_yoy_pct,-0.371,-0.368,-0.03,1.0,0.48,0.243,-0.53,-0.447,-0.116
+jolts_job_openings_k,0.103,0.099,-0.16,0.48,1.0,0.731,-0.594,0.083,-0.033
+information_sector_emp_k,0.399,0.369,-0.092,0.243,0.731,1.0,-0.819,0.06,0.249
+computer_math_emp_k,0.019,-0.045,0.003,-0.53,-0.594,-0.819,1.0,-0.091,-0.236
+avg_sentiment,0.168,0.37,0.312,-0.447,0.083,0.06,-0.091,1.0,-0.77
+negative_share_pct,0.158,0.152,-0.03,-0.116,-0.033,0.249,-0.236,-0.77,1.0
